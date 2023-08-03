@@ -8,8 +8,11 @@ Risk Management and Position Size Calculation
 I had programmed a software for my personal use to calculate complete position information in forex and cryptocurrency futures, today I released it for free. 
 
 Course: Risk Management and Position Size Calculation :
-•	First session: risk management and position size
-•	The second session: Position size calculation in forex
-•	The third session: Position size calculation in cryptocurrency futures
-•	The fourth session: Position management
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[First session: risk management and position size](https://www.youtube.com/watch?v=KA0K6jE8HS8) 
+
+[The second session: Position size calculation in forex](https://www.youtube.com/watch?v=oGYFCSDbWGU)
+
+[The third session: Position size calculation in cryptocurrency futures](https://www.youtube.com/watch?v=5I7D5uZhnwA)
+
+[The fourth session: Position management](https://www.youtube.com/watch?v=V0GbAcmtvVA)
