@@ -1,0 +1,106 @@
+D:\vb test\calculator\Position Size\Position Size\bin\Debug\Position Size.exe.config
+D:\vb test\calculator\Position Size\Position Size\bin\Debug\Position Size.exe
+D:\vb test\calculator\Position Size\Position Size\bin\Debug\Position Size.pdb
+D:\vb test\calculator\Position Size\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+D:\vb test\calculator\Position Size\Position Size\obj\Debug\Position_Size.Form1.resources
+D:\vb test\calculator\Position Size\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+D:\vb test\calculator\Position Size\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+D:\vb test\calculator\Position Size\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+D:\vb test\calculator\Position Size\Position Size\obj\Debug\Position Size.exe
+D:\vb test\calculator\Position Size\Position Size\obj\Debug\Position Size.pdb
+D:\vb test\Position Size-Class\Position Size\obj\Debug\Position_Size.Form1.resources
+D:\vb test\Position Size-Class\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+D:\vb test\Position Size-Class\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+D:\vb test\Position Size-Class\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+D:\vb test\Position Size-Class\Position Size\obj\Debug\Position Size.exe
+D:\vb test\Position Size-Class\Position Size\obj\Debug\Position Size.pdb
+D:\vb test\Position Size-Class\Position Size\bin\Debug\Position Size.exe.config
+D:\vb test\Position Size-Class\Position Size\bin\Debug\Position Size.exe
+D:\vb test\Position Size-Class\Position Size\bin\Debug\Position Size.pdb
+D:\vb test\Position Size-Class\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\bin\Debug\Position Size.exe.config
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\bin\Debug\Position Size.exe
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\bin\Debug\Position Size.pdb
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\obj\Debug\Position_Size.Form1.resources
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\obj\Debug\Position Size.exe
+D:\vb test\Position Size Start Coding\Position Size-Class1\Position Size\obj\Debug\Position Size.pdb
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\bin\Debug\Position Size.exe.config
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\bin\Debug\Position Size.exe
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\bin\Debug\Position Size.pdb
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\obj\Debug\Position_Size.Form1.resources
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\obj\Debug\Position Size.exe
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\obj\Debug\Position Size.pdb
+D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\bin\Debug\Position Size.exe.config
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\bin\Debug\Position Size.exe
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\bin\Debug\Position Size.pdb
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\obj\Debug\Position_Size.Form1.resources
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\obj\Debug\Position Size.exe
+D:\vb test\Position Size Start Coding\Position Size-3-Forex Coding\Position Size\obj\Debug\Position Size.pdb
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\Position_Size.Form1.resources
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\bin\Debug\RF Position Size V.1.1.exe.config
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\bin\Debug\RF Position Size V.1.1.exe
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\bin\Debug\RF Position Size V.1.1.pdb
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\RF Position Size V.1.1.exe
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\RF Position Size V.1.1.pdb
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\bin\Debug\HtmlAgilityPack.dll
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\bin\Debug\HtmlAgilityPack.pdb
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\bin\Debug\HtmlAgilityPack.xml
+D:\vb test\Position Size Start Coding\Position Size-4-Final Change Coding\Position Size\obj\Debug\Position Size.csproj.CopyComplete
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\bin\Debug\HtmlAgilityPack.dll
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\bin\Debug\HtmlAgilityPack.pdb
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\bin\Debug\HtmlAgilityPack.xml
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\Position_Size.Form1.resources
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csproj.CopyComplete
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\bin\Debug\RF Position Size Calculator V.1.0.exe.config
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\bin\Debug\RF Position Size Calculator V.1.0.exe
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\bin\Debug\RF Position Size Calculator V.1.0.pdb
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\RF Position Size Calculator V.1.0.exe
+D:\vb test\Position Size Start Coding\Position Size-5-Encrypt\Position Size\obj\Debug\RF Position Size Calculator V.1.0.pdb
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\Position_Size.Form1.resources
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\RF Position Size Calculator V.1.0.exe
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\RF Position Size Calculator V.1.0.pdb
+F:\Position Size-5-Encrypt\Position Size\bin\Debug\RF Position Size Calculator V.1.0.exe.config
+F:\Position Size-5-Encrypt\Position Size\bin\Debug\RF Position Size Calculator V.1.0.exe
+F:\Position Size-5-Encrypt\Position Size\bin\Debug\RF Position Size Calculator V.1.0.pdb
+F:\Position Size-5-Encrypt\Position Size\bin\Debug\HtmlAgilityPack.dll
+F:\Position Size-5-Encrypt\Position Size\bin\Debug\HtmlAgilityPack.pdb
+F:\Position Size-5-Encrypt\Position Size\bin\Debug\HtmlAgilityPack.xml
+F:\Position Size-5-Encrypt\Position Size\obj\Debug\Position Size.csproj.CopyComplete
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\bin\Debug\RF Position Size Calculator V.1.0.exe.config
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\bin\Debug\RF Position Size Calculator V.1.0.exe
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\bin\Debug\RF Position Size Calculator V.1.0.pdb
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\bin\Debug\HtmlAgilityPack.dll
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\bin\Debug\HtmlAgilityPack.pdb
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\bin\Debug\HtmlAgilityPack.xml
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\Position Size.csprojAssemblyReference.cache
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\Position_Size.Form1.resources
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\Position_Size.Properties.Resources.resources
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\Position Size.csproj.GenerateResource.cache
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\Position Size.csproj.CoreCompileInputs.cache
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\Position Size.csproj.CopyComplete
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\RF Position Size Calculator V.1.0.exe
+F:\Position Size-5-Encrypt\Position Size-6-Delete Help & Publish\Position Size\obj\Debug\RF Position Size Calculator V.1.0.pdb
