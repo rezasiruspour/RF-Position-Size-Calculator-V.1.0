@@ -1,3 +1,1 @@
-﻿1>------ Rebuild All started: Project: Position Size, Configuration: Debug Any CPU ------
-1>  Position Size -> D:\vb test\Position Size Start Coding\Position Size-2-Coding\Position Size\bin\Debug\Position Size.exe
-========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
